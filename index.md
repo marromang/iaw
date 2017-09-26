@@ -1,10 +1,3 @@
----
-layout: index
-
-title: José Domingo Muñoz	
-tagline: josedom24.github.io
----
-
 Implantación de servicios web
 
 En esta web se van a documentar las prácticas realizadas para esta asignatura.
